@@ -1,0 +1,18 @@
+{
+  "overview": {
+    "name": "",
+    "type": "",
+    "description": "",
+    "traits": {}
+  },
+  "attributes": {
+    "structure": {},
+    "armor": {},
+    "shield": {},
+    "capacitor": {},
+    "targeting": {},
+    "propulsion": {},
+    "misc": {},
+    "skills": {}
+  }
+}
